@@ -1,0 +1,28 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "baseUrl": "C:/Users/Elio/AppData/Local/Temp/889f-4a7a-6825-1947/cb01c93b62374d31ad4ea9ea10d98e66",
+    "checkJs": true,
+    "esModuleInterop": true,
+    "lib": [
+      "ES2019"
+    ],
+    "outDir": "C:/Users/Elio/AppData/Local/Temp/889f-4a7a-6825-1947/cb01c93b62374d31ad4ea9ea10d98e66/out-dir",
+    "paths": {
+      "*": [
+        "skylight-typedefs/*",
+        "skylight-node_modules/*"
+      ]
+    },
+    "typeRoots": [
+      "C:/Users/Elio/AppData/Local/Temp/889f-4a7a-6825-1947/cb01c93b62374d31ad4ea9ea10d98e66/skylight-node_modules/@types"
+    ],
+    "types": [
+      "node"
+    ]
+  },
+  "include": [
+    "./**/*.js",
+    "./**/*.ts"
+  ]
+}
